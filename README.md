@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 这里是 **AstroAxis** 团队 👋
 
-<!--
-**AstroAxis/AstroAxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## 🎨 MYXMJY 开发团队 Logo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AstroAxis/AstroAxis/main/NewAstroAxis渐变横黑.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AstroAxis/AstroAxis/main/NewAstroAxis渐变横白.png" />
+  <img src="https://raw.githubusercontent.com/AstroAxis/AstroAxis/main/NewAstroAxis横黑.png" width="180" height="40" alt="AstroAxis 开发团队 Logo" />
+</picture>
+
+</div>
