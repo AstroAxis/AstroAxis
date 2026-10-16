@@ -1,6 +1,6 @@
 # Hi 这里是 **AstroAxis** 团队 👋
 
-## AstroAxis 团队仍还在准备之中!
+# AstroAxis 团队仍还在准备之中!
 
 <div align="center">
 ## 🎨 AstroAxis 开发团队 Logo
